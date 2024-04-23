@@ -26,9 +26,15 @@
 
 ---
 
-*Estudiando actualemente: *
+*Estudiando actualemente:*
 
 [![English](https://img.shields.io/badge/English-%230A0A0A.svg?style=for-the-badge&logo=english&logoColor=white)](URL_DE_TU_PROYECTO_ENGLISH)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
+*Con Conocimiento en:*
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
