@@ -28,7 +28,6 @@ cada proyecto :fire:**
 [![Linkedin Profile](https://img.shields.io/badge/LINKEDIN-40-grey?style=social&logo=linkedin)](https://www.linkedin.com/in/jhojan-d-toro/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=social&logo=tiktok)](https://www.tiktok.com/@devtorito)
 
-
 ## Resumen
 
 <div align="center">
