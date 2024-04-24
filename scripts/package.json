@@ -1,0 +1,17 @@
+{
+  "name": "@UpdateReadme.DevJhojanXX",
+  "version": "1.0.0",
+  "description": "A script to update personal README with latest Youtube videos",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DevJhojanXX",
+  "license": "ISC",
+  "dependencies": {
+    "dependencies": "^0.0.1",
+    "googleapis": "^134.0.0"
+  }
+}
