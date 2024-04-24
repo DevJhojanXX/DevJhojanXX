@@ -1,5 +1,5 @@
 {
-  "name": "@UpdateReadme.DevJhojanXX",
+  "name": "update_readme",
   "version": "1.0.0",
   "description": "A script to update personal README with latest Youtube videos",
   "main": "main.js",
