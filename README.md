@@ -18,7 +18,7 @@
 
 ---
 ###  Estados de este repositorio
-> Mi repositorio principasl esta [aquí](https://github.com/DevJhojan)
+> Mi repositorio principal esta [aquí](https://github.com/DevJhojan)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhojanXX&theme=radical)](https://github.com/DevJhojanXX/github-readme-stats)
 
