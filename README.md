@@ -19,7 +19,7 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhojanXX&theme=radical)](https://github.com/DevJhojanXX/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevJhojanXX&layout=compact&theme=radical)](https://github.com/DevJhojanXX/github-readme-stats)
+
 
 ---
 
