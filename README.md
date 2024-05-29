@@ -20,9 +20,10 @@
 ###  Estados de este repositorio
 > Mi repositorio principal esta [aquí](https://github.com/DevJhojan)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhojanXX&theme=dark)](https://github.com/DevJhojanXX/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhojanXX&theme=dark)](https://github.com/DevJhojanXX)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevJhojanXX&layout=compact&theme=dark)](https://github.com/DevJhojanXX/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevJhojanXX&layout=compact&theme=dark)](https://github.com/DevJhojanXX) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJhojanXX&langs_count=8&theme=dark)](https://github.com/DevJhojanXX)
 ---
 
 *Estudiando actualemente:*
