@@ -29,20 +29,22 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-
 *Estudiando actualemente:*
 
 [![English](https://img.shields.io/badge/English-%230A0A0A.svg?style=for-the-badge&logo=english&logoColor=white)](URL_DE_TU_PROYECTO_ENGLISH)
 <!-- ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) -->
 
 ---
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=DevJhojan&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+
+---
 ##  Estados de este repositorio
 > Mi repositorio principal esta [aquí](https://github.com/DevJhojan)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhojanXX&theme=dark)](https://github.com/DevJhojanXX)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhojanXX&theme=vision-friendly-dark)](https://github.com/DevJhojanXX)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevJhojanXX&layout=compact&theme=dark)](https://github.com/DevJhojanXX) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJhojanXX&langs_count=8&theme=dark)](https://github.com/DevJhojanXX)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJhojanXX&langs_count=8&theme=vision-friendly-dark)](https://github.com/DevJhojanXX)
 ---
 
 
