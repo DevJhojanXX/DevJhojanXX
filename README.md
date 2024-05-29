@@ -17,6 +17,17 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=social&logo=tiktok)](https://www.tiktok.com/@devtorito)
 
 ---
+
+*Con Conocimiento en:*
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 ###  Estados de este repositorio
 > Mi repositorio principal esta [aquí](https://github.com/DevJhojan)
 
@@ -31,15 +42,6 @@
 [![English](https://img.shields.io/badge/English-%230A0A0A.svg?style=for-the-badge&logo=english&logoColor=white)](URL_DE_TU_PROYECTO_ENGLISH)
 <!-- ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) -->
 
-
-*Con Conocimiento en:*
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!-- # Youtube -->
 <!-- YOUTUBE:START -->
