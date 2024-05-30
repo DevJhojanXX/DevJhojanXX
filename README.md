@@ -44,7 +44,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhojanXX&theme=vision-friendly-dark)](https://github.com/DevJhojanXX)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevJhojanXX&layout=compact&theme=dark)](https://github.com/DevJhojanXX) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJhojanXX&langs_count=8&theme=vision-friendly-dark)](https://github.com/DevJhojanXX)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJhojanXX&langs_count=8&theme=dark)](https://github.com/DevJhojanXX)
+
 ---
 
 
